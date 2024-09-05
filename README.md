@@ -1,5 +1,17 @@
 # 💫 About Me:
-👋 Hi, I'm Haim Fisher!<br><br>A passionate software engineer and problem-solver, I specialize in security and finding elegant solutions to complex challenges. With a track record of owning critical components in secure OS environments, like [HECI](https://en.wikipedia.org/wiki/Host_Embedded_Controller_Interface) and [GPIO](https://edc.intel.com/content/www/us/en/design/ipla/software-development-platforms/client/platforms/alder-lake-mobile-p/intel-600-series-chipset-family-on-package-platform-controller-hub-pch-datash/general-purpose-input-and-output/) drivers, I've played a pivotal role in driving the establishment of a unit-level testing infrastructure, aligning with the shift-left strategy.<br><br>Currently pursuing a Research Master’s in Big Data Analytics at Hebrew University, I'm diving deep into Machine Learning and developing new defense methods against adversarial attacks.<br><br>### Highlights:<br>- **[HECI Lead @ Intel](https://en.wikipedia.org/wiki/Host_Embedded_Controller_Interface):** Engineered secure communication links between OSs and Intel's security engines, creating firmware drivers and testing environments.<br>- **[GPIO micro Architect](https://edc.intel.com/content/www/us/en/design/ipla/software-development-platforms/client/platforms/alder-lake-mobile-p/intel-600-series-chipset-family-on-package-platform-controller-hub-pch-datash/general-purpose-input-and-output/):** Directed cross-team synchronization, led end-to-end implementation, and crafted the architecture for secure GPIO driver.<br>- **Research Thesis:** Innovating new defense methods against adversarial attacks, advancing the field of AI security through cutting-edge research.<br><br>Driven by innovation, I’m always up for pushing the boundaries of system development. Let’s connect and make a difference!
+👋 Hi, I'm Haim Fisher!
+
+A passionate software engineer and problem-solver, I specialize in security and finding elegant solutions to complex challenges. With a track record of owning critical components in secure OS environments, like [HECI](https://en.wikipedia.org/wiki/Host_Embedded_Controller_Interface) and [GPIO](https://edc.intel.com/content/www/us/en/design/ipla/software-development-platforms/client/platforms/alder-lake-mobile-p/intel-600-series-chipset-family-on-package-platform-controller-hub-pch-datash/general-purpose-input-and-output/) drivers, I've led initiatives that redefine system security and testing strategies.
+
+Currently pursuing a Research Master’s in Big Data Analytics at Hebrew University, I'm diving deep into Machine Learning and developing new defense methods against adversarial attacks.
+
+### Highlights:
+- **[HECI Lead @ Intel](https://en.wikipedia.org/wiki/Host_Embedded_Controller_Interface):** Engineered secure communication links between OS and Intel's security engines, creating firmware drivers and testing environments.
+- **[GPIO Architect](https://edc.intel.com/content/www/us/en/design/ipla/software-development-platforms/client/platforms/alder-lake-mobile-p/intel-600-series-chipset-family-on-package-platform-controller-hub-pch-datash/general-purpose-input-and-output/):** Directed cross-team synchronization, led end-to-end implementation, and crafted the architecture for secure GPIO drivers.
+- **Debugger Tools Engineer:** Built secure debugging environments for Intel processors, developing versatile C++ servers and maintaining advanced JTAG probes.
+- **Research Thesis:** Innovating new defense methods against adversarial attacks, advancing the field of AI security through cutting-edge research.
+
+Driven by innovation, I’m always up for pushing the boundaries of secure system development. Let’s connect and make a difference!
 
 
 ## 🌐 Socials:
